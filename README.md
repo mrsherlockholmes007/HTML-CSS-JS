@@ -1,2 +1,2 @@
 # HTML-CSS-JS
-I have done various projects using HTML,CSS,JS 
+These are my various projects on HTML, CSS, JS
